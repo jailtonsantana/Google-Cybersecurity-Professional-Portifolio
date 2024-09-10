@@ -7,8 +7,8 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
 - **Course 2: Play It Safe: Manage Security Risks**
   - Controls and compliance checklist
 - **Course 3: Connect and Protect: Networks and Network Security**
-  - Wireshark Log Analysis
-  - DNS and ICMP Traffic Analysis
+  - [Analyze network attacks](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Analyze%20network%20attacks)
+  - [Apply OS hardening techniques](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Apply%20OS%20hardening%20techniques)
 - **Course 4: Tools of the Trade: Linux and SQL**
 - **Course 5: Assets, Threats, and Vulnerabilities**
 - **Course 6: Sound the Alarm: Detection and Response**
