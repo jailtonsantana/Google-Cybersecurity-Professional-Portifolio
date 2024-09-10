@@ -10,6 +10,7 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - [Analyze network attacks](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Analyze%20network%20attacks)
   - [Apply OS hardening techniques](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Apply%20OS%20hardening%20techniques)
   - [Analysis of network hardening](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Analysis%20of%20network%20hardening)
+  - [Portfolio Activity: Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course3-Networks-Security/Portfolio%20Activity-NIST%20CSF%20to%20respond%20to%20a%20security%20incident)
 - **Course 4: Tools of the Trade: Linux and SQL**
 - **Course 5: Assets, Threats, and Vulnerabilities**
 - **Course 6: Sound the Alarm: Detection and Response**
