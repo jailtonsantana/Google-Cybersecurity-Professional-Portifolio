@@ -15,6 +15,7 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - [Use Linux commands to manage file permissions](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course4-Linux-SQL/Use%20Linux%20commands%20to%20manage%20file%20permissions)
   - [Apply filters to SQL queries](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course4-Linux-SQL/Apply%20filters%20to%20SQL%20queries)
 - **Course 5: Assets, Threats, and Vulnerabilities**
+  - Classifying assets connected to a home network
 - **Course 6: Sound the Alarm: Detection and Response**
 - **Course 7: Automate Cybersecurity Tasks with Python**
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
