@@ -19,6 +19,7 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - Scoring risks based on their likelihood and severity
   - Determining appropriate data handling practices
   - Improving authentication, authorization, and accounting
+  - Analyzing a vulnerable system for a small business
 - **Course 6: Sound the Alarm: Detection and Response**
 - **Course 7: Automate Cybersecurity Tasks with Python**
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
