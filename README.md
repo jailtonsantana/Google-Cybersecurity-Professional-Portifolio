@@ -18,6 +18,7 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - Classifying assets connected to a home network
   - Scoring risks based on their likelihood and severity
   - Determining appropriate data handling practices
+  - Improving authentication, authorization, and accounting
 - **Course 6: Sound the Alarm: Detection and Response**
 - **Course 7: Automate Cybersecurity Tasks with Python**
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
