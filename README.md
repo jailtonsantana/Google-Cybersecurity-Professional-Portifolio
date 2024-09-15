@@ -15,12 +15,13 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - [Use Linux commands to manage file permissions](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course4-Linux-SQL/Use%20Linux%20commands%20to%20manage%20file%20permissions)
   - [Apply filters to SQL queries](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course4-Linux-SQL/Apply%20filters%20to%20SQL%20queries)
 - **Course 5: Assets, Threats, and Vulnerabilities**
-  - Classifying assets connected to a home network
-  - Scoring risks based on their likelihood and severity
-  - Determining appropriate data handling practices
-  - Improving authentication, authorization, and accounting
-  - Analyzing a vulnerable system for a small business
-  - Attack vectors of a USB drive
+  - [Classifying assets connected to a home network](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module01/Classify-Assets)
+  - [Scoring risks based on their likelihood and severity](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module01/Scoring-Risks)
+  - [Determining appropriate data handling practices](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module02/Data-Handling)
+  - [Improving authentication, authorization, and accounting](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module02/Improve-AAA)
+  - [Analyzing a vulnerable system for a small business](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module03/Vulnerability-Assessment)
+  - [Attack vectors of a USB drive](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module03/Attacker-Mindset)
+  - [Applying the PASTA threat model framework](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module04/PASTA-Framework)
 - **Course 6: Sound the Alarm: Detection and Response**
 - **Course 7: Automate Cybersecurity Tasks with Python**
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
