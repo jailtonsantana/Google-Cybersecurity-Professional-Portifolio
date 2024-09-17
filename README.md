@@ -23,6 +23,12 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - [Attack vectors of a USB drive](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module03/Attacker-Mindset)
   - [Applying the PASTA threat model framework](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course5-Assets-Threats-Vulnerabilities/module04/PASTA-Framework)
 - **Course 6: Sound the Alarm: Detection and Response**
+  - [Document an incident with an incident handler's journal](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module01/Document-Incident)
+  - [Comparing network protocol analyzers: Wireshark vs tcpdump](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module01/Research-Analyzers)
+  - [Using a playbook to respond to a phishing incident](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module02/Using-Playbook)
+  - [Reviewing a final report](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module03/Final-Report)
+  - [Investigating a suspicious file hash](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module03/Suspicious-File)
+  - [Incident handler's journal including several activities in Course 6](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/blob/main/Course6-Incident-Response/Incident-handler-s-journal-.docx)
 - **Course 7: Automate Cybersecurity Tasks with Python**
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
 
