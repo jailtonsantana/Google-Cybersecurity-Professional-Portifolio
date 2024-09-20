@@ -30,6 +30,7 @@ Welcome to my portfolio, where I showcase the projects and activities completed 
   - [Investigating a suspicious file hash](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/tree/main/Course6-Incident-Response/module03/Suspicious-File)
   - [Incident handler's journal including several activities in Course 6](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/blob/main/Course6-Incident-Response/Incident-handler-s-journal-.docx)
 - **Course 7: Automate Cybersecurity Tasks with Python**
+  - [Reading from and write to a file](https://github.com/jailtonsantana/Google-Cybersecurity-Professional-Portifolio/blob/main/Course7-Task-Automation-With-Python/remove_ip.py)
 - **Course 8: Put It to Work: Prepare for Cybersecurity Jobs**
 
 ## About Me
